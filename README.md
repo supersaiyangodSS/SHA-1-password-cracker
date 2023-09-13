@@ -1,4 +1,4 @@
-### Assignment
+## Assignment
 
 Passwords should never be stored in plain text. They should be stored as hashes, just in case the password list is discovered. However, not all hashes are created equal.
 
